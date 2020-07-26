@@ -1,0 +1,16 @@
+import { dew } from "./index.dew.js";
+export default dew();
+import "https://dev.jspm.io/npm:@jspm/core@1/nodelibs/@empty.dew.js";
+import "https://dev.jspm.io/npm:vue-server-renderer@2.6.11/package.json.dew.js";
+import "https://dev.jspm.io/npm:vue-server-renderer@2.6.11/build.dev.dew.js";
+import "https://dev.jspm.io/npm:he@1?dew";
+import "https://dev.jspm.io/npm:@jspm/core@1/nodelibs/stream.js";
+import "https://dev.jspm.io/npm:lodash.template@4?dew";
+import "https://dev.jspm.io/npm:@jspm/core@1/nodelibs/path.js";
+import "https://dev.jspm.io/npm:serialize-javascript@2?dew";
+import "https://dev.jspm.io/npm:@jspm/core@1/nodelibs/vm.js";
+import "https://dev.jspm.io/npm:resolve@1?dew";
+import "https://dev.jspm.io/npm:@jspm/core@1/nodelibs/@empty.js";
+import "https://dev.jspm.io/npm:source-map@0.5.6?dew";
+import "https://dev.jspm.io/npm:@jspm/core@1/nodelibs/process.js";
+import "https://dev.jspm.io/npm:@jspm/core@1/nodelibs/buffer.js";

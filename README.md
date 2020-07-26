@@ -9,7 +9,7 @@ deno run --allow-net --allow-env ./server.tsx
 or
 
 ```
-deno run --allow-net --allow-env ./build.js
+deno run --allow-net --allow-env ./dist/build.js
 
 ```
 

@@ -17,4 +17,6 @@ visit http://127.0.0.1:4000/home
 
 ## bundle
 
-deno build ./server.tsx ./dist/build.js
+```
+deno bundle ./server.tsx ./dist/build.js
+```
